@@ -1,4 +1,3 @@
-/* General Styles */
 body {
     font-family: 'Poppins', sans-serif;
     background-color: #fdf7f0;
@@ -7,7 +6,6 @@ body {
     padding: 0;
 }
 
-/* Header */
 header {
     background: url('images/header-bg.jpg') center/cover no-repeat;
     height: 100vh;
@@ -64,7 +62,6 @@ nav a:hover {
     background: #a04e12;
 }
 
-/* Menu */
 #menu {
     text-align: center;
     padding: 50px;
@@ -108,7 +105,6 @@ nav a:hover {
     color: #c06014;
 }
 
-/* Footer */
 footer {
     background: #f3e1d4;
     color: #5a4032;
@@ -116,7 +112,6 @@ footer {
     padding: 10px;
 }
 
-/* Contact Section */
 #contact {
     text-align: center;
     padding: 60px 20px;
@@ -136,7 +131,6 @@ footer {
     margin-bottom: 30px;
 }
 
-/* Contact Container */
 .contact-container {
     display: flex;
     justify-content: center;
@@ -145,7 +139,6 @@ footer {
     gap: 40px;
 }
 
-/* Contact Info */
 .contact-info {
     background: white;
     padding: 20px;
@@ -166,7 +159,6 @@ footer {
     margin: 5px 0;
 }
 
-/* Contact Form */
 .contact-form {
     background: white;
     padding: 30px;
@@ -225,7 +217,6 @@ footer {
     background: #a04e12;
 }
 
-/* Responsive */
 @media (max-width: 768px) {
     .contact-container {
         flex-direction: column;
@@ -254,7 +245,6 @@ footer {
     max-width: 1200px;
 }
 
-/* Text Section */
 .about-text {
     flex: 1;
 }
@@ -273,7 +263,6 @@ footer {
     margin-bottom: 15px;
 }
 
-/* Button */
 .about-btn {
     background: #c06014;
     color: white;
@@ -289,7 +278,6 @@ footer {
     background: #8b5a2b;
 }
 
-/* Image Section */
 .about-image {
     flex: 1;
     text-align: center;
